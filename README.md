@@ -52,4 +52,4 @@ Bu repository'de yayımlanan kaynak kodları MIT License kapsamında sunulmaktad
 ### Not:
 Bu repository, akademik araştırma kapsamında geliştirilen yöntem ve uygulama kodlarının belgelenmesi; çalışmanın şeffaflık, bilimsel etik ve araştırma dürüstlüğü ilkeleri doğrultusunda incelenebilirliğinin ve tekrarlanabilirliğinin desteklenmesi amacıyla hazırlanmıştır.
 
-Çalışmada kullanılan uygulama kodları, tez çalışması kapsamında Türkçe açıklamalarla yeniden düzenlenmiş ve yeni bir repository altında bütüncül bir yapıda organize edilmiştir.
+Çalışmada kullanılan uygulama kodları, tez çalışması kapsamında Türkçe açıklamalarla organize edilerek yeni bir repository altında paylaşılmıştır.
