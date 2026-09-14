@@ -27,7 +27,7 @@ Tamsayı tabanlı DNA, kodon ve amino asit temsilleri, 1 Boyutlu Reel Değerli E
 ### VII. 2B Protein–Amino Asit Temsillerinin Sınıflandırılması
 Kompleks tabanlı iki boyutlu protein–amino asit temsilleri, kompleks ve reel değerli 2B evrişimli yapay sinir ağlarının yanı sıra geleneksel makine öğrenmesi yöntemleri kullanılarak sınıflandırılmış ve yöntemlerin performansları karşılaştırılmıştır
 
-### 8. İstatistiksel Karşılaştırmalar
+### VIII. İstatistiksel Karşılaştırmalar
 Kompleks ve reel değerli ağlarla gerçekleştirilen dizi sınıflandırma çalışmalarından elde edilen 10 katlı çapraz doğrulama accuracy sonuçları, uygun istatistiksel yöntemler kullanılarak karşılaştırılmış ve modeller arasındaki performans farklılıkları değerlendirilmiştir.
 
 ## Kodlar ve Çalışma Ortamı
